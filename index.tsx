@@ -1,5 +1,3 @@
-
-
 import { IconButton, InputAdornment, TextField, TextFieldProps } from "@material-ui/core";
 import { VisibilityOff, Visibility } from "@material-ui/icons";
 import React from "react";
