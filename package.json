@@ -1,0 +1,34 @@
+{
+  "name": "material-ui-password",
+  "version": "1.0.1",
+  "description": "A material-ui password TextField with 'show password' option",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "keywords": ["react", "material", "material-ui", "password", "field", "visible", "visibility", "toggle"],
+  "scripts": {
+    "compile": "tsc"
+  },
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.js.map",
+    "dist/**/*.d.ts",
+    "README.md",
+    "demo.png"
+  ],
+  "prepublish": "tsc",
+  "author": "Yann Pellegrini",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/icons": "^4.11.2"
+  },
+  "peerDependencies": {
+    "@material-ui/core": "^1.0.0 || ^4.11.4",
+    "@material-ui/icons": "^1.0.0 || ^4.11.2",
+    "react": "^16.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "@material-ui/core": "^4.11.4",
+    "react": "^16.3.1"
+  }
+}
