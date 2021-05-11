@@ -1,6 +1,6 @@
 {
   "name": "material-ui-password",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A material-ui password TextField with 'show password' option",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "demo.png"
   ],
   "prepublish": "tsc",
-  "author": "Yann Pellegrini",
+  "authors": "Yann Pellegrini, Lotfi Aanikid",
   "license": "MIT",
   "dependencies": {
     "@material-ui/icons": "^4.11.2"
