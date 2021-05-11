@@ -1,6 +1,6 @@
 {
   "name": "material-ui-password",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A material-ui password TextField with 'show password' option",
   "repository": {
     "type": "git",
