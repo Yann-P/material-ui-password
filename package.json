@@ -2,6 +2,10 @@
   "name": "material-ui-password",
   "version": "1.0.1",
   "description": "A material-ui password TextField with 'show password' option",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yann-P/material-ui-password.git"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "keywords": ["react", "material", "material-ui", "password", "field", "visible", "visibility", "toggle"],
